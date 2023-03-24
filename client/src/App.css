@@ -1,0 +1,12 @@
+.App {
+  box-sizing: border-box;
+  padding: 50px;
+  display: flex;
+  height: 100vh;
+}
+.input {
+  background-color: lightblue;
+}
+.contacts {
+  color: green;
+}
